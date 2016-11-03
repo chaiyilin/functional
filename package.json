@@ -1,0 +1,20 @@
+{
+  "name": "functional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^15.0.2"
+  },
+  "jest": {
+    "testPathDirs": [
+      "src"
+    ],
+    "testRegex": "test.js$"
+  }
+}
