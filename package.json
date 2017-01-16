@@ -8,6 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "Person": "file:src/a/Person"
+  },
   "devDependencies": {
     "jest-cli": "^15.0.2"
   },
